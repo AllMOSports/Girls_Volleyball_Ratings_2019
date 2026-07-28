@@ -1,0 +1,106 @@
+School,OFF Rating,DEF Rating,OVR Rating,OFF Rank,DEF Rank,OVR Rank
+Nixa,2.37,2.36,4.72,1,1,1
+St. Teresa's Academy,2.31,2.14,4.45,2,2,2
+Lafayette (Wildwood),2.16,1.99,4.15,3,3,3
+Cor Jesu Academy,2.03,1.89,3.93,4,5,4
+Lee's Summit West,2.01,1.84,3.84,6,7,5
+Liberty,1.95,1.85,3.8,8,6,6
+Blue Springs,1.95,1.81,3.76,7,8,7
+Park Hill South,2.03,1.73,3.76,5,10,8
+Kickapoo,1.8,1.92,3.72,9,4,9
+Oakville,1.71,1.8,3.51,10,9,10
+Liberty North,1.69,1.63,3.32,11,13,11
+St. Joseph's Academy,1.64,1.65,3.29,12,11,12
+Eureka,1.52,1.64,3.16,14,12,13
+Lindbergh,1.55,1.45,3.0,13,15,14
+Marquette,1.42,1.51,2.94,16,14,15
+Jefferson City,1.44,1.44,2.88,15,16,16
+Lee's Summit,1.38,1.34,2.72,17,17,17
+Park Hill,1.35,1.3,2.66,18,18,18
+Rockwood Summit,1.3,1.28,2.58,19,19,19
+Northwest (Cedar Hill),1.22,1.26,2.48,25,20,20
+Ozark,1.25,1.21,2.47,21,21,21
+Francis Howell Central,1.28,1.18,2.46,20,24,22
+Branson,1.24,1.19,2.42,22,23,23
+Francis Howell,1.22,1.19,2.41,24,22,24
+Platte County,1.23,1.08,2.31,23,27,25
+Blue Springs South,1.1,1.16,2.26,29,25,26
+Jackson,1.12,1.09,2.21,27,26,27
+Willard,1.04,1.07,2.11,31,28,28
+Lee's Summit North,1.18,0.89,2.07,26,33,29
+Staley,1.11,0.96,2.07,28,30,30
+Timberland,1.03,1.01,2.05,32,29,31
+Helias Catholic,1.07,0.94,2.01,30,31,32
+Nerinx Hall,0.99,0.91,1.91,33,32,33
+Raymore-Peculiar,0.96,0.87,1.83,34,36,34
+Carthage,0.91,0.89,1.79,36,34,35
+Parkway Central,0.84,0.89,1.73,38,35,36
+Seckman,0.84,0.87,1.71,39,37,37
+Central (St. Joseph),0.82,0.85,1.67,40,38,38
+Pattonville,0.93,0.7,1.63,35,48,39
+Rock Bridge,0.9,0.72,1.62,37,43,40
+Liberty (Wentzville),0.73,0.78,1.52,46,39,41
+Carl Junction,0.8,0.71,1.51,41,46,42
+Parkway South,0.77,0.74,1.5,42,41,43
+North Kansas City,0.75,0.72,1.46,44,45,44
+Parkway West,0.68,0.78,1.45,48,40,45
+Camdenton,0.73,0.72,1.45,45,44,46
+Hickman,0.75,0.68,1.43,43,49,47
+Washington,0.72,0.71,1.42,47,47,48
+Troy Buchanan,0.64,0.73,1.37,49,42,49
+Webb City,0.63,0.64,1.26,51,52,50
+Mehlville,0.6,0.66,1.26,53,50,51
+Westminster Christian Academy,0.61,0.65,1.26,52,51,52
+Hillsboro,0.6,0.61,1.21,54,53,53
+Kearney,0.59,0.59,1.17,55,54,54
+Rolla,0.63,0.53,1.16,50,57,55
+Lebanon,0.56,0.57,1.13,59,55,56
+Fort Osage,0.53,0.56,1.1,63,56,57
+Poplar Bluff,0.59,0.45,1.04,56,60,58
+Kirkwood,0.57,0.47,1.04,57,58,59
+Ladue Horton Watkins,0.56,0.46,1.02,58,59,60
+Hannibal,0.55,0.44,1.0,61,61,61
+Holt,0.52,0.42,0.94,65,63,62
+Francis Howell North,0.53,0.4,0.93,64,64,63
+Farmington,0.55,0.36,0.9,62,66,64
+Grain Valley,0.56,0.35,0.9,60,67,65
+Fox,0.47,0.37,0.84,67,65,66
+Glendale,0.5,0.33,0.84,66,69,67
+Webster Groves,0.29,0.43,0.73,75,62,68
+Central (Cape Girardeau),0.33,0.33,0.66,70,68,69
+Parkview,0.36,0.28,0.64,69,72,70
+Republic,0.31,0.3,0.61,72,70,71
+Ft. Zumwalt West,0.33,0.28,0.61,71,73,72
+Ft. Zumwalt North,0.38,0.19,0.57,68,75,73
+Ft. Zumwalt South,0.3,0.24,0.54,74,74,74
+Joplin,0.2,0.29,0.49,77,71,75
+Ritenour,0.31,0.17,0.48,73,76,76
+Winnetonka,0.17,0.16,0.33,79,77,77
+Warrensburg,0.21,0.01,0.22,76,81,78
+William Chrisman,0.08,0.13,0.2,81,78,79
+Oak Park,0.18,-0.04,0.14,78,84,80
+Belton,0.07,0.04,0.11,82,80,81
+Warrenton,0.11,-0.04,0.07,80,83,82
+Battle,-0.1,0.08,-0.02,84,79,83
+Hazelwood Central,-0.07,-0.03,-0.1,83,82,84
+Ursuline Academy,-0.13,-0.14,-0.27,85,86,85
+Parkway North,-0.15,-0.12,-0.27,86,85,86
+Sikeston,-0.19,-0.16,-0.35,88,87,87
+Waynesville,-0.19,-0.19,-0.38,87,88,88
+McCluer North,-0.39,-0.24,-0.62,90,89,89
+Raytown,-0.33,-0.32,-0.64,89,91,90
+Ft. Zumwalt East,-0.41,-0.26,-0.67,91,90,91
+Neosho,-0.45,-0.37,-0.82,92,92,92
+Hazelwood West,-0.61,-0.48,-1.08,93,93,93
+Hillcrest,-0.66,-0.58,-1.24,95,94,94
+McDonald County,-0.64,-0.62,-1.26,94,95,95
+Union,-0.71,-0.7,-1.4,97,98,96
+Raytown South,-0.76,-0.65,-1.41,98,96,97
+Central (Springfield),-0.67,-0.76,-1.42,96,99,98
+West Plains,-0.85,-0.68,-1.53,100,97,99
+Hazelwood East,-0.85,-0.78,-1.63,99,100,100
+Grandview,-0.86,-0.84,-1.7,101,101,101
+Riverview Gardens,-0.94,-0.86,-1.8,102,102,102
+McCluer,-1.05,-1.17,-2.22,103,103,103
+Ruskin,-1.52,-1.47,-2.99,105,104,104
+East (Kansas City),-1.43,-1.61,-3.04,104,105,105
